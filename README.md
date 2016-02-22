@@ -7,6 +7,7 @@
 - browserify
 - lodash
 - toastr
+- bootstrap
 
 $ history | grep "npm install"  
    27  npm install --save gulp@3.9.0 gulp-connect@2.2.0 gulp-open@1.0.0     
@@ -15,6 +16,5 @@ $ history | grep "npm install"
    46  npm install --save gulp-eslint@0.15.0   
    55  npm install react  
    79  npm install --save lodash  
-   97  npm install --save react-router   
   100  npm install --save react-router@0.13 
   108  npm install --save toastr@2.1.0
