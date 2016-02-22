@@ -18,3 +18,6 @@ $ history | grep "npm install"
    79  npm install --save lodash  
   100  npm install --save react-router@0.13 
   108  npm install --save toastr@2.1.0
+
+## Todos:
+- cleanup style errors for clean linting
