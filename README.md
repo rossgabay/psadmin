@@ -21,3 +21,4 @@ $ history | grep "npm install"
 
 ## Todos:
 - cleanup style errors for clean linting
+- hook up the data api to the backend api instead of static stubbing
