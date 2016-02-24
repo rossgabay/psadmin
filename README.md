@@ -2,7 +2,7 @@
 ## psadmin app - this version uses:
 - react js
 - react router
-- flux
+- flux (coming soon)
 - gulp
 - browserify
 - lodash
