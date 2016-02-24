@@ -1,4 +1,4 @@
-# psadmin
+# psadmin - based on Cory House's course
 ## psadmin app - this version uses:
 - react js
 - react router
